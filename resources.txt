@@ -1,0 +1,2 @@
+关键点检测器,下载后解压到resources目录下
+http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
